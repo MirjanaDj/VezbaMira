@@ -1,1 +1,2 @@
- Ovo je moj priv red.
+ Ovo je moj prvi red.
+Ovo je drugi red.
