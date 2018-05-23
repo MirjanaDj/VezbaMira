@@ -1,6 +1,3 @@
-Ovo je moj prvi red.
+ Ovo je moj prvi red.
 Ovo je drugi red.
 Ovo je treci red.
-4. red
-Peti red koji nam ne 
-treba.
