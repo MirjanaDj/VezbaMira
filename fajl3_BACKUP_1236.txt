@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+I idemo opet prvi red.
+2. red je sa nekim konfliktom.
+=======
+Ovo je prvi red.
+2. red ovde ce biti konflikt.
+>>>>>>> treca_grana
+3. red
